@@ -1,2 +1,5 @@
 # simplecalc-plus
- simplecalc public repo
+
+ This is the simplecalc public repo.
+
+## Under construction
